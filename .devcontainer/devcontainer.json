@@ -1,0 +1,16 @@
+{
+  "name": "Django Web",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "web",
+  "workspaceFolder": "/home/user1/dev",
+  "extensions": [
+    "ms-python.python",
+    "batisteo.vscode-django",
+    "bigonesystems.django",
+    "bibhasdn.django-snippets",
+    "bibhasdn.django-html",
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+  },
+}
